@@ -15,10 +15,10 @@ None as such, apart from assembly
 
 # Pinout
 
-<img href=Images/pinout.png></img>
+![Pinout](Images/pinout.png)
 
 # Images
 
-<img href=Images/front.png></img>
+![Board](Images/front.png)
 
 note: if the images don't load, you can see them at [images](Images)
