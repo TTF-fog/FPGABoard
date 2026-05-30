@@ -26,4 +26,6 @@ None as such, apart from assembly
 
 ![Board](Images/front.png)
 
+<img width="1050" height="712" alt="image" src="https://github.com/user-attachments/assets/a416f4d0-4308-499a-bc74-d25cf160b4f5" />
+
 note: if the images don't load, you can see them at [images](Images)
