@@ -14,6 +14,9 @@ None as such, apart from assembly
 - the iCE can be developed with iCEcube2 and programmed using the Diamond Programmer. To flash use [SPIFFS](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/storage/spiffs.html) to create a file for the generated bitstream, and then use the [flash code](Firmware/mcu-flash)
 
 # Pinout
-[Pinout](Images/pinout.png)
 
-[Model](Images/front.png)
+<img href=Images/pinout.png></img>
+
+# Images
+
+<img href=Images/front.png></img>
