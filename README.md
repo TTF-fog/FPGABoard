@@ -1,5 +1,7 @@
 # S3GA
-an FPGA board based on the ICE40UP5K and the ESP32S3-Mini (module). Allows for wireless functionality (maybe even programming?) using the ESP32S3-M while the iCE works with IO
+an FPGA board based on the ICE40UP5K and the ESP32S3-Mini (module). 
+
+Allows for wireless functionality (maybe even programming?) using the ESP32S3-M and IO using the iCE
 
 ## Why?
 - i wasn't able to find any boards that integrated wireless functionality with the ICE40UP5K, so i decided to make one!
