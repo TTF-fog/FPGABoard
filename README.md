@@ -13,6 +13,11 @@ None as such, apart from assembly
 - the S3 can be developed for using Arduino / ESP-IDF and programmed with the respective tools
 - the iCE can be developed with iCEcube2 and programmed using the Diamond Programmer. To flash use [SPIFFS](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/storage/spiffs.html) to create a file for the generated bitstream, and then use the [flash code](Firmware/mcu-flash)
 
+# Sublinks
+- [BOM](BOM.csv)
+- [Gerbers](Hardware/production_files/production_files/GERBER-FPGABoard.zip)
+- [Zine]()
+- [Schematic PDF](Hardware/design_files/Schematic.pdf)
 # Pinout
 
 ![Pinout](Images/pinout.png)
