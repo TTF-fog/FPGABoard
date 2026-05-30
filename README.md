@@ -20,3 +20,5 @@ None as such, apart from assembly
 # Images
 
 <img href=Images/front.png></img>
+
+note: if the images don't load, you can see them at [images](Images)
