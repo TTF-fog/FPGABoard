@@ -16,7 +16,7 @@ None as such, apart from assembly
 # Sublinks
 - [BOM](BOM.csv)
 - [Gerbers](Hardware/production_files/production_files/GERBER-FPGABoard.zip)
-- [Zine]()
+- [Zine](Zine.pdf)
 - [Schematic PDF](Hardware/design_files/Schematic.pdf)
 # Pinout
 
@@ -24,6 +24,7 @@ None as such, apart from assembly
 
 # Images
 
+![Zine](Images/image.png)
 ![Board](Images/front.png)
 
 <img width="1050" height="712" alt="image" src="https://github.com/user-attachments/assets/a416f4d0-4308-499a-bc74-d25cf160b4f5" />
